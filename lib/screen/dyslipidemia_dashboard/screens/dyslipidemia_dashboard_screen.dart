@@ -293,7 +293,7 @@ class _DyslipidemiaDashboardScreenState
                             children: [
                               Expanded(
                                 child: Text("Occasional Alcohol, Non-smoker",
-                                    maxLines: 2,
+                                    maxLines: 3,
                                     style: GoogleFonts.roboto(
                                         color: AppColors.black,
                                         fontSize: 18.sp,
